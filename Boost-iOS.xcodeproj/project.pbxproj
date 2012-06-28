@@ -12,7 +12,6 @@
 		4ACA2253159885EB00E72BCB /* thread_clock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA0456159885E200E72BCB /* thread_clock.cpp */; };
 		4ACA22A0159885EB00E72BCB /* date_generators.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA04C2159885E200E72BCB /* date_generators.cpp */; };
 		4ACA22A1159885EB00E72BCB /* greg_month.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA04C3159885E200E72BCB /* greg_month.cpp */; };
-		4ACA22A2159885EB00E72BCB /* greg_names.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 4ACA04C4159885E200E72BCB /* greg_names.hpp */; };
 		4ACA22A3159885EB00E72BCB /* greg_weekday.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA04C5159885E200E72BCB /* greg_weekday.cpp */; };
 		4ACA22A4159885EB00E72BCB /* gregorian_types.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA04C6159885E200E72BCB /* gregorian_types.cpp */; };
 		4ACA22A5159885EB00E72BCB /* posix_time_types.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA04C8159885E200E72BCB /* posix_time_types.cpp */; };
@@ -28,7 +27,6 @@
 		4ACA2346159885EB00E72BCB /* unique_path.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA0664159885E200E72BCB /* unique_path.cpp */; };
 		4ACA2347159885EB00E72BCB /* utf8_codecvt_facet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA0665159885E200E72BCB /* utf8_codecvt_facet.cpp */; };
 		4ACA2348159885EB00E72BCB /* windows_file_codecvt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA0666159885E200E72BCB /* windows_file_codecvt.cpp */; };
-		4ACA2349159885EB00E72BCB /* windows_file_codecvt.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 4ACA0667159885E200E72BCB /* windows_file_codecvt.hpp */; };
 		4ACA2406159885EB00E72BCB /* graphml.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA0918159885E200E72BCB /* graphml.cpp */; };
 		4ACA2407159885EB00E72BCB /* read_graphviz_new.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA0919159885E200E72BCB /* read_graphviz_new.cpp */; };
 		4ACA2499159885EB00E72BCB /* bzip2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA0F62159885E500E72BCB /* bzip2.cpp */; };
@@ -54,7 +52,6 @@
 		4ACA25DD159885EC00E72BCB /* beta.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18A5159885E800E72BCB /* beta.cpp */; };
 		4ACA25DE159885EC00E72BCB /* betaf.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18A6159885E800E72BCB /* betaf.cpp */; };
 		4ACA25DF159885EC00E72BCB /* betal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18A7159885E800E72BCB /* betal.cpp */; };
-		4ACA25E0159885EC00E72BCB /* c_policy.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 4ACA18A8159885E800E72BCB /* c_policy.hpp */; };
 		4ACA25E1159885EC00E72BCB /* cbrt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18A9159885E800E72BCB /* cbrt.cpp */; };
 		4ACA25E2159885EC00E72BCB /* cbrtf.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18AA159885E800E72BCB /* cbrtf.cpp */; };
 		4ACA25E3159885EC00E72BCB /* cbrtl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18AB159885E800E72BCB /* cbrtl.cpp */; };
@@ -142,7 +139,6 @@
 		4ACA2635159885EC00E72BCB /* nexttoward.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18FD159885E800E72BCB /* nexttoward.cpp */; };
 		4ACA2636159885EC00E72BCB /* nexttowardf.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18FE159885E800E72BCB /* nexttowardf.cpp */; };
 		4ACA2637159885EC00E72BCB /* nexttowardl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA18FF159885E800E72BCB /* nexttowardl.cpp */; };
-		4ACA2638159885EC00E72BCB /* pch.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 4ACA1900159885E800E72BCB /* pch.hpp */; };
 		4ACA2639159885EC00E72BCB /* riemann_zeta.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1901159885E800E72BCB /* riemann_zeta.cpp */; };
 		4ACA263A159885EC00E72BCB /* riemann_zetaf.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1902159885E800E72BCB /* riemann_zetaf.cpp */; };
 		4ACA263B159885EC00E72BCB /* riemann_zetal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1903159885E800E72BCB /* riemann_zetal.cpp */; };
@@ -181,7 +177,6 @@
 		4ACA281F159885EC00E72BCB /* fileiter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1C41159885E800E72BCB /* fileiter.cpp */; };
 		4ACA2820159885EC00E72BCB /* icu.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1C42159885E800E72BCB /* icu.cpp */; };
 		4ACA2821159885EC00E72BCB /* instances.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1C43159885E800E72BCB /* instances.cpp */; };
-		4ACA2822159885EC00E72BCB /* internals.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 4ACA1C44159885E800E72BCB /* internals.hpp */; };
 		4ACA2823159885EC00E72BCB /* posix_api.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1C45159885E800E72BCB /* posix_api.cpp */; };
 		4ACA2824159885EC00E72BCB /* regex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1C46159885E800E72BCB /* regex.cpp */; };
 		4ACA2825159885EC00E72BCB /* regex_debug.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1C47159885E800E72BCB /* regex_debug.cpp */; };
@@ -233,7 +228,6 @@
 		4ACA28D5159885EC00E72BCB /* xml_wiarchive.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1D56159885E800E72BCB /* xml_wiarchive.cpp */; };
 		4ACA28D6159885EC00E72BCB /* xml_woarchive.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1D57159885E800E72BCB /* xml_woarchive.cpp */; };
 		4ACA2950159885EC00E72BCB /* error_code.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1E3E159885E800E72BCB /* error_code.cpp */; };
-		4ACA2951159885EC00E72BCB /* local_free_on_destruction.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 4ACA1E3F159885E800E72BCB /* local_free_on_destruction.hpp */; };
 		4ACA29E2159885EC00E72BCB /* compiler_log_formatter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1F9B159885E900E72BCB /* compiler_log_formatter.cpp */; };
 		4ACA29E3159885EC00E72BCB /* cpp_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1F9C159885E900E72BCB /* cpp_main.cpp */; };
 		4ACA29E4159885EC00E72BCB /* debug.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA1F9D159885E900E72BCB /* debug.cpp */; };
@@ -1168,12 +1162,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4ACA22A2159885EB00E72BCB /* greg_names.hpp in Headers */,
-				4ACA2349159885EB00E72BCB /* windows_file_codecvt.hpp in Headers */,
-				4ACA25E0159885EC00E72BCB /* c_policy.hpp in Headers */,
-				4ACA2638159885EC00E72BCB /* pch.hpp in Headers */,
-				4ACA2822159885EC00E72BCB /* internals.hpp in Headers */,
-				4ACA2951159885EC00E72BCB /* local_free_on_destruction.hpp in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
