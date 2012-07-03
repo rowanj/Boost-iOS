@@ -15,6 +15,6 @@ GCC_WARN_SIGN_COMPARE = YES
 GCC_WARN_UNUSED_VALUE = YES
 GCC_WARN_UNUSED_VARIABLE = YES
 GCC_SYMBOLS_PRIVATE_EXTERN = YES
-OTHER_CFLAGS = -Wno-parentheses-equality -Wno-overloaded-virtual -Wno-unused-variable -Wno-sign-compare
+OTHER_CFLAGS = -Wno-parentheses-equality -Wno-overloaded-virtual -Wno-unused-variable -Wno-sign-compare -Wno-literal-range
 CLANG_CXX_LANGUAGE_STANDARD = gnu++0x
 CLANG_CXX_LIBRARY = libc++
